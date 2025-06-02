@@ -1,4 +1,4 @@
-# yt-dlp-wrap
+# yt-dlp-wrap (Saysan777)
 
 This is a fork of the great lib [youtube-dl-wrap](https://github.com/ghjbnm/youtube-dl-wrap) (written by [ghjbnm](https://github.com/ghjbnm)) rewritten in TypeScript.
 
